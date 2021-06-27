@@ -1,1 +1,7 @@
 exportPattern("^[[:alpha:]]+")
+import(shiny)
+import(shiny.i18n)
+import(showtext)
+import(shiny)
+import(shiny.i18n)
+import(deSolve) # package for solving diferential equation
