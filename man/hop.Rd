@@ -31,6 +31,7 @@ myfunction(x)
 %% ~put references to the literature/web site here ~
 }
 \author{
+Christophe Coupé
 %%  ~~who you are~~
 }
 \note{
